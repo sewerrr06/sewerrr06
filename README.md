@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm sewerr</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=1500&color=70A4FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sewerr+👋" alt="Typing SVG" />
 <h3 align="center">Cybersecurity specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
