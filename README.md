@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=1500&color=70A4FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sewerr+👋" alt="Typing SVG" />
 </h1>
 
-<!-- Доданий другий варіант: кyберпанк GIF з GIPHY -->
+<!-- Доданий другий варіант: GIF з AlphaCoders -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Cyberpunk GIF" width="600" />
+  <a href="https://gifs.alphacoders.com/gifs/view/217731" target="_blank" rel="noreferrer">
+    <img src="https://images.alphacoders.com/217/217731.gif" alt="Selected GIF from AlphaCoders" width="600" />
+  </a>
 </p>
 
 <h3 align="center">Cybersecurity specialist</h3>
